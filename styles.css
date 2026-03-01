@@ -25,7 +25,7 @@ img {
 
 
 .center-qr {
-    max-height:fit-content;
+    height:fit-content;
     max-width: 200px;
     position: absolute;
     margin: auto;
