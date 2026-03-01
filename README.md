@@ -24,8 +24,8 @@ This is a challenge provided by frontendmentor.
 
 ### Links
 
-- Solution URL: [https://github.com/Val77-key/frontendmentor_challenges.git](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Val77-key/frontendmentor_challenges.git
+- Live Site URL: https://val77-key.github.io/frontendmentor_challenges/
 
 
 ### Built with
